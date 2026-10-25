@@ -1,0 +1,6 @@
+.venv/
+RT-DETRv4/
+*.pt
+*.pth
+__pycache__/
+.idea/
